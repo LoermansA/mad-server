@@ -1,6 +1,6 @@
 # Inleiding
 
-Dit document beschrijft de minimale stappen die nodig zijn om het back-end deel woor de course "Mobile Application Development" draaiend te krijgen.
+Dit document beschrijft de minimale stappen die nodig zijn om het back-end deel voor de course "Mobile Application Development" draaiend te krijgen.
 
 ## Algemene aantekeningen voor de student
 
